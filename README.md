@@ -11,7 +11,7 @@ Principais Ferramentas:
 ---
 ### AdventureWorks
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/f0ff6f41-5b4d-4f69-b650-2365299f6069" alt="Descrição da imagem" width="600" align="right">
+  <img src="https://github.com/user-attachments/assets/f0ff6f41-5b4d-4f69-b650-2365299f6069" alt="Descrição da imagem" width="580" align="right">
 Projeto desenvolvido para análise da empresa AdventureWorks, com foco nos dados de e-commerce. Utilizou-se a linguagem SQL para explorar e extrair insights a partir do banco de dados.
 
   Principais desafios enfrentados:
